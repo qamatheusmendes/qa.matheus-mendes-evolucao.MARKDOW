@@ -1,1 +1,2 @@
-
+Teste é muito mais do que apenas “executar testes” ao executar o software e verificar os resultados. Ele abrange também: o planejamento de teste, análise, modelagem e implementação dos testes, relatórios de progresso e resultados de testes e avaliação da qualidade de um objeto de teste.
+Sendo assim, podemos perceber que o teste de software define-se como uma maneira eficaz de avaliar a qualidade do software e com isso, diminuir o risco de falhas quando no estado de operação.
